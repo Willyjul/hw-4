@@ -1,0 +1,8 @@
+.halfbox {
+    height: 0px;
+    border-top: 50px solid lightblue;
+    border-left: 50px solid navy;
+    border-right: 50px solid blue;
+    border-bottom: 0px solid red;
+    float: left
+}
